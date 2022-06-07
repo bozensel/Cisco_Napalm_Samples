@@ -5,4 +5,11 @@ NAPALM (Network Automation and Programmability Abstraction Layer with Multivendo
 
 NAPALM supports several methods to connect to the devices, to manipulate configurations or to retrieve data.
 
-!pip install napalm
+To install NAPALM we need to meet the following requirements:
+
+We will need a machine with the Linux Operating System. In my case I use the Ubuntu console for Windows 10.
+We need to have Python3 installed.
+PIP – Python Library Package Manager.
+Python Virtual Environment (Optional)
+
+pip install napalm # Command to install napalm. 
