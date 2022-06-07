@@ -1,5 +1,5 @@
 # Cisco_Napalm_Samples
-Some samples on Cisco device using Napalm. 
+Some sample commands on Cisco device using Napalm. 
 
 NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
 
